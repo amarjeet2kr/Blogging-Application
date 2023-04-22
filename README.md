@@ -1,5 +1,23 @@
 # Blogging-Application
-REST APIs for Blogging Application which support CRUD operation for blog posts and comments, categories, along with user authentication and authorization features. Used Java Backend Technologies, including Spring Boot, Hibernate, Rest API, MySQL database, and Postman for testing and documenting APIs.
+Blogging Application is a web-based application that allows users to create and publish blog posts, read and comment on other users' posts, and categorize posts by topics.
+The application has a user authentication system that allows users to create accounts, login, logout securely, resetting passwords and updating account information.
+It uses a RESTful API to handle requests and responses between the frontend and backend of the application.
+The API allows for CRUD operations on blog posts, comments, categories, and user accounts.
+
+### Technologies/Tools used:
+Java 17
+Spring Boot framework
+Hibernate
+MySQL database
+Apache Tomcat
+Postman
+
 
 ### Check Documentation </br>
 https://documenter.getpostman.com/view/25721502/2s93RXtAjN
+
+### Architecture
+![image](https://user-images.githubusercontent.com/74978503/233798323-f7100dee-de87-4e0a-87f3-b0d4d55cc653.png)
+
+### ER Diagram
+![image](https://user-images.githubusercontent.com/74978503/233798351-638d8f55-47bb-48c9-8476-a9574c00cb56.png)
