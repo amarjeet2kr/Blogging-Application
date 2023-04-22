@@ -1,4 +1,4 @@
-# Blogging-Application
+# Blogging-Application-APIs
 Blogging Application is a web-based application that allows users to create and publish blog posts, read and comment on other users' posts, and categorize posts by topics.
 The application has a user authentication system that allows users to create accounts, login, logout securely, resetting passwords and updating account information.
 It uses a RESTful API to handle requests and responses between the frontend and backend of the application.
